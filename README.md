@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [https://github.com/abdsydev/order-summary](https://github.com/abdsydev/order-summary)
+- Live Site URL: [https://abdsydev.github.io/order-summary/](https://abdsydev.github.io/order-summary/)
 
 ## My process
 
