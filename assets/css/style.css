@@ -33,6 +33,9 @@ body {
 }
 
 .hero-img {
+  background: url(../images/illustration-hero.svg) no-repeat;
+  width: 450px;
+  height: 200px;
   border-radius: 25px 25px 0 0;
 }
 
@@ -130,4 +133,21 @@ body {
 .copytight a {
   text-decoration: none;
   color: hsl(212, 21%, 14%);
+}
+
+@media (max-width: 412px) {
+  .container {
+    height: 100%;
+    padding: 25px;
+  }
+
+  .hero-img,
+  .order-summary {
+    width: 100%;
+    background-position: center;
+  }
+
+  .order-summary {
+    padding: 25px;
+  }
 }
